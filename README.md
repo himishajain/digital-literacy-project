@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/233ff7fe-a6ff-4c8d-b9c4-cec0d4d225c1" /># Digital Literacy Project
+
 
 ## Student Details
 **Name:** Himisha Jain  
@@ -24,8 +24,7 @@ Created professional profiles on platforms like GitHub LinkedIn and kaggle to bu
 - Completed a beginner coding problem on HackerRank  
 - Created a Google Form quiz on digital literacy  
 
-Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdlCZgnvM0BkcUoTQRZnnt_tg22Oe7NP4B_zginB3Zfikgccw/viewform?usp=preview
-
+Google Form Link: https://docs.google.com/forms/d/e/1FAIpQLSdlCZgnvM0BkcUoTQRZnnt_tg22Oe7NP4B_zginB3Zfikgccw/viewform?usp=dialog
 ### 🔹 Task 4 – Email Etiquette
 - Wrote two professional emails  
 - Created a social media Do’s and Don’ts checklist  
