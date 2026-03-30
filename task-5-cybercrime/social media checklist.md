@@ -1,19 +1,4 @@
-#  Social Media Do’s and Don’ts Checklist
-
-## DO:
-- Use strong passwords  
-- Keep your profile professional  
-- Think before posting  
-- Respect others online  
-- Verify information before sharing  
-
-##  DON’T:
-- Share personal information  
-- Post offensive content  
-- Click unknown links  
-- Spread fake news  
-- Share your location publicly
-- Stay Safe Online Checklist
+#  Social Media Awareness Checklist
   
 Never share your UPI PIN or OTP.
 Do not approve unknown payment requests.
